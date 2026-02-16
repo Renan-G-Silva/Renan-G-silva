@@ -1,16 +1,33 @@
-## Hi there 👋
+# Bem-Vindo ao meu perfil! :wave:
 
-<!--
-**renan-G-silva/Renan-G-silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Formado em **Matemática(Licenciatura)** e **Ciências Contábeis**
 
-Here are some ideas to get you started:
+:computer: Estudando:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:point_right: Lógica de Programação
+
+:point_right: Estudando GenIA e Dados (Bootcamp DIO e Bradesco)
+
+:point_right:<img src="https://github.com/user-attachments/assets/5153b5f0-2dcb-4fc6-93d3-6857cdbb3c65" width="18" height="18" />   Lingua Espanhola
+
+## Linguagens e Ferramentas 
+
+<div style="display: inline">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="50" height="50" />
+</div>
+
+## Outras Ferramentas
+
+![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-%2334A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+## Contatos
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-genildo-da-silva-761ba5110/)  
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511960941779)
+
